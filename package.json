@@ -1,0 +1,24 @@
+{
+  "name": "deadend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/deadend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/deadend/issues"
+  },
+  "homepage": "https://github.com/montyanderson/deadend#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "hogan.js": "^3.0.2",
+    "mongoose": "^4.4.5"
+  }
+}
